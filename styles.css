@@ -34,7 +34,7 @@ h1::before, h1::after {
   h1::after {
     top: 9px;
     right: 0px;
-    border-radius: 90px 0 0 90px;
-    -moz-border-radius: 90px 0 0 90px;
-    -webkit-border-radius: 90px 0 0 90px;
+    border-radius: 0 90px 90px 0;
+    -moz-border-radius: 0 90px 90px 0;
+    -webkit-border-radius: 0 90px 90px 0;
   }
